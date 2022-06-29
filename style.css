@@ -1,0 +1,53 @@
+.main-header {
+  background-color: #f7f7f7;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+body {
+  font-family: sans-serif;
+  line-height: 1.4;
+}
+
+.product {
+  border: 5px solid black;
+}
+
+ul {
+  list-style: square;
+}
+
+a:link,
+a:visited {
+  color: black;
+}
+
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+p strong {
+  font-size: 25px;
+}
+
+.freeshipping {
+  color: gray;
+  text-transform: uppercase;
+  font-weight: bold;
+  font-size: 12px;
+}
+
+button {
+  border: none;
+  font-size: 30px;
+  color: white;
+  background-color: black;
+  text-transform: uppercase;
+  cursor: pointer;
+}
+
+button:hover {
+  color: black;
+  background-color: white;
+}
